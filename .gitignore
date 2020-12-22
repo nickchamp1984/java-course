@@ -1,0 +1,17 @@
+### Operation System
+.DS_Store
+
+HELP.md
+.gradle
+build/
+bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### Allure ###
+allure-results
